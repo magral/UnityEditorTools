@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CollisionPainter2D/test.unity
+  isLoaded: 1
+  isActive: 1
