@@ -1,5 +1,5 @@
 # UnityEditorTools
-Personal practice for making editor tools in Unity
+A collection of Unity tools for various uses
 
 # Vertex Painter
 Paint colors onto vertices of 3D objects in the scene GUI
